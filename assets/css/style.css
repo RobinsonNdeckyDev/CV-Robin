@@ -323,3 +323,13 @@ ul.timeline > li:before {
     height: 20px;
     z-index: 400;
 }
+
+.carousel-item img {
+    max-height: 100px;
+    width: 250px !important;
+    margin: 0 5px;
+    /* Ajustez la hauteur maximale des logos */
+    /* object-fit: contain; */
+    /* Assurez-vous que les logos sont bien ajustés */
+}
+
